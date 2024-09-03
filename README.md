@@ -36,16 +36,14 @@ if not installed use the following pip command:
 
 If you have any error while accessing or running the game contact me : [Mail me](mailto:samyaali648gmail.com)
 
-##### If You love this Project then don't forget to fork me and star me.
+##### If You love this Project then don't forget to star me.
 
-I have released the Game in the form of .exe files which is supported to run only in windows.<br />
-Simply install and play the game.<br />
 
 ## Screenshots of the Game:
 
 <h4>1. Game Playing Screen</h4>
 <img src="![2](https://github.com/user-attachments/assets/8c1c7f13-7802-4b4e-bf2a-414969122222)" width=500> <br />
 <h4>2. Game Over Screen.</h4>
-<img src="![1](https://github.com/user-attachments/assets/19d735f5-de48-414e-a447-4466fef87396)" width=500> <br />
+<img src="file:///C:/Users/SAMYA%20ALI/Downloads/1.jpg" width=500> <br />
 
 ## Author : SAMYA ALI
