@@ -3,7 +3,7 @@
 ![python](https://img.shields.io/badge/python-v3.9.10-red?style=flat-square&logo=python)
 
 <p align="left">
-		This is the copy of the retro which we use to play in 2010 or some year. That time the game was so interesting and playable but now they are deprecated due to new game engine and 3D games. But still i have made this game using python. <br />
+		This is the copy of the retro which we used to play in 2010 or some year. That time the game was so interesting and playable but now they are deprecated due to new game engine and 3D games. But still i have made this game using python. <br />
 		Originally when this game was released it was made using java. To support object oriented programming game.<br />
 		This is my 2nd game using pygame. My first game was the retro snake game.<br />
 	</p>
